@@ -2,7 +2,6 @@
 
 This Encryption and Decryption Tool is a GUI application that allows users to encrypt and decrypt text using various cryptographic algorithms, including Caesar Cipher, AES, and RSA. The tool provides a simple graphical interface to perform these operations seamlessly, making it easy to understand and use.
 
-
 ## Table of Contents
 
 - [Features](#features)
@@ -24,31 +23,21 @@ This Encryption and Decryption Tool is a GUI application that allows users to en
 
 ### Prerequisites
 
-- Python 3.x
-- Required Python packages: `tkinter`, `ttkbootstrap`, `customtkinter`, `pycryptodome`
+- Windows operating system
+- The provided `entool.exe` file
 
 ### Steps
 
-1. **Clone the repository:**
-   ```sh
-   git clone https://github.com/your-repository/encryption-decryption-tool.git
-   cd encryption-decryption-tool
-   ```
+1. **Download the executable:**
+   - Download the `entool.exe` file from the [releases](https://github.com/your-repository/encryption-decryption-tool/releases) page.
 
-2. **Install the required packages:**
-   ```sh
-   pip install -r requirements.txt
-   ```
-
-3. **Run the application:**
-   ```sh
-   python main.py
-   ```
+2. **Run the executable:**
+   - Double-click the `entool.exe` file to launch the application.
 
 ## Usage
 
 1. **Launch the Application:**
-   - Run the application using `python main.py`.
+   - Run the executable file by double-clicking on `entool.exe`.
    - The main window will open, displaying tabs for different encryption algorithms.
 
 2. **Select an Algorithm:**
@@ -61,7 +50,7 @@ This Encryption and Decryption Tool is a GUI application that allows users to en
    - The output will be displayed in the output box.
 
 4. **Generate RSA Keys:**
-   - In the RSA tab, click the "Generate RSA Keys" button to generate a new pair of RSA keys.
+   - In the RSA tab, click the "Generate Keys" button to generate a new pair of RSA keys.
 
 5. **About the Project:**
    - Access the "Information of Project" menu to read about the project and its contributors.
@@ -85,4 +74,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 Feel free to contribute to this project by submitting issues or pull requests. For any questions or suggestions, please contact us at [raksaniya12@gmail.com].
 
 ---
-
