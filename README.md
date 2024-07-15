@@ -82,8 +82,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-Feel free to contribute to this project by submitting issues or pull requests. For any questions or suggestions, please contact us at [your-email@example.com].
+Feel free to contribute to this project by submitting issues or pull requests. For any questions or suggestions, please contact us at [raksaniya12@gmail.com].
 
 ---
 
-**Note:** Replace `https://github.com/your-repository/encryption-decryption-tool.git` with the actual URL of your repository and `your-email@example.com` with your contact email.
