@@ -5,6 +5,7 @@ This Encryption and Decryption Tool is a GUI application that allows users to en
 ## Table of Contents
 
 - [Features](#features)
+- Download-error(#Download-error)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Project Information](#project-information)
@@ -18,6 +19,12 @@ This Encryption and Decryption Tool is a GUI application that allows users to en
 - **RSA (Rivest-Shamir-Adleman):** Public-key encryption and decryption with the ability to generate RSA key pairs.
 - **User-Friendly Interface:** Easy-to-use graphical interface for encryption and decryption tasks.
 - **About the Project:** Information about the project and its contributors.
+
+## Download-error
+
+### Download Error: False Positive Alert
+
+If you encounter a "virus detected" error, rest assured, this is a false positive. The issue arises because I used PyInstaller to create the .exe file, which can trigger antivirus software warnings due to the file packing process. The encryption and decryption tool (entool) is entirely safe to use, and this warning can be safely ignored.
 
 ## Installation
 
