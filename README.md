@@ -5,7 +5,7 @@ This Encryption and Decryption Tool is a GUI application that allows users to en
 ## Table of Contents
 
 - [Features](#features)
-- Download-error(#Download-error)
+- [Download-error](#Download-error)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Project Information](#project-information)
