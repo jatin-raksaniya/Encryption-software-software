@@ -29,7 +29,7 @@ This Encryption and Decryption Tool is a GUI application that allows users to en
 ### Steps
 
 1. **Download the executable:**
-   - Download the `entool.exe` file from the [releases](https://github.com/your-repository/encryption-decryption-tool/releases) page.
+   - Download the `entool.exe` file from the [releases](https://github.com/jatin-raksaniya/Encryption-tool/releases/tag/entoolv1.0.0.0) page.
 
 2. **Run the executable:**
    - Double-click the `entool.exe` file to launch the application.
